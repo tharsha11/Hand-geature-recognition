@@ -13,6 +13,7 @@ Overall, hand gesture recognition is an exciting and rapidly evolving field that
 
 dataCollection.py is ued to collect the data of images of each alphabet.
 data is given to teachable machines and it gave keras_model.h5 and that can be used to test the hand geatures every where
+we followed signs as per the asl.jpg file.
 
 # How to run
 # method-1
