@@ -21,4 +21,14 @@ directly download the zip file and run the test.py then you get real time hand g
 # method-2
 put all the files in single folder (model.py,dataCollection.py, keras_model.h5, labels.txt,test.py)
 then open the folder as a package and run test.py code.
+![image](https://github.com/user-attachments/assets/7d4cc36b-b253-46ee-b548-d44b900f80ad)
+![image](https://github.com/user-attachments/assets/cbcb0276-3b4a-46e0-a465-becfebc88f6a)
+![image](https://github.com/user-attachments/assets/475ff37e-7c27-4807-8f59-c769cc2f26d8)
+![image](https://github.com/user-attachments/assets/0135aa7e-ac06-4f05-bf34-b8b17196ca02)
+
+![image](https://github.com/user-attachments/assets/a435b286-596a-47f9-99ff-d742f8d3b04a)
+
+
+
+
 
